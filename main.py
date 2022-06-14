@@ -1,2 +1,2 @@
 
-print('g')
+print('gg')
